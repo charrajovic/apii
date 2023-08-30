@@ -1,0 +1,8 @@
+{
+    "typescript.suggestionActions.enabled": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "eslint.probe": ["javascript", "javascriptreact"],
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": { "source.formatDocument": true }
+  }
+  
